@@ -1,2 +1,2 @@
-# Homework-Week1-Excel
+# Crowdfunding Challenge
 Store Excel week 1 homework
